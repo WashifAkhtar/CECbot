@@ -1,0 +1,184 @@
+[
+    {
+        "question": "hi",
+        "keywords": ["hello"],
+        "answer": "Hi! I'm CECbot."
+    },
+    {
+        "question": "How are you?",
+        "keywords": ["how's it going", "how are you feeling", "How are ya"],
+        "answer": "I'm just a computer program, so I don't have feelings, but I'm here to help you with your questions."
+    },
+    {
+        "question": "What is your name?",
+        "keywords": ["your identity", "who are you"],
+        "answer": "I'm a chatbot, and you can call me CECbot."
+    },
+    {
+        "question": "Tell me about the college",
+        "keywords": ["college overview", "college details"],
+        "answer": "Chaibasa Engineering College is a college of higher education established in the year 2013 by Jharkhand Govt. It is run by the Techno India Group and is recognized by AICTE. The college offers Bachelor of Technology across five disciplines at the undergraduate level."
+    },
+    {
+        "question": "Where is the campus located",
+        "keywords": ["campus location", "campus address","location","address"],
+        "answer": "Chaibasa Engineering College is located in the National Highway 75 connecting Chaibasa and Jaitgarh, 12 kilometres (7.5 mi) from the Chaibasa town in the West Singhbhum district in the Kolhan division."
+    },
+    {
+        "question": "What is the tuition fee",
+        "keywords": ["tuition cost", "fees","fee structure","tuition fee"],
+        "answer": " The fee structure varies between these two admission routes. Even if a candidate is allotted a seat by JCECEB, the fees may differ based on the specific seat type allocated by the JCECEB.\n To view further fee details visit https://www.chaibasaengg.edu.in/Admission/chaibasa_admission"
+    },
+    {
+        "question": "How do I apply for admission?",
+        "keywords": ["admission process", "apply for enrollment","admission"],
+        "answer": "An eligible and interested student who is willing to take admission in Chaibasa Engineering College can complete it in two ways. \n1. DIRECT ADMISSION (INSTITUTIONAL QUOTA)   \n2. ADMISSION THROUGH JCECEB COUNSELLING \n To apply for admission online visit https://www.chaibasaengg.edu.in/Admission_Form/admission_view"
+    },
+    {
+        "question": "Is there a scholarship program?",
+        "keywords": ["scholarship opportunities", "financial aid","financial assistance"],
+        "answer": "Yes, there are various scholarships for deserving students, meritorious students, needy students, and reserved category students. Students can also apply for Govt. & national scholarships as well."
+    },
+    {
+        "question": "What are the campus facilities?",
+        "keywords": ["campus amenities", "available facilities"],
+        "answer": "Our campus provides state-of-the-art facilities, including digital library, well equiped labs, hostels, seminar room, smart classrooms  and more."
+    },
+    {
+        "question":"How are the accommodation facilities for students in Chaibasa Engineering College?",
+        "keywords":["accomodation","hostel"],
+        "answer":"Hostels are available inside the college campus separately for girls and boys.\n There are all facilities inside the hostel for a safe and secure living of students.The hostels have a clean environment, Common room, indoor and outdoor sports facility, Power Backup, Wi-Fi and more"
+
+    },
+    {
+        "question":"What are the hostel lodging fees at this Chaibasa Engineering College?",
+        "keywords":["hostel fee","lodging fee"],
+        "answer":"The hostel fees is only INR 15000 per annum"
+
+    },
+    {
+        "question":"Are there any seats available under institutional quota in Chaibasa Engineering College?",
+        "keywords":["instituitional quota","private seat","private seats"],
+        "answer":"Yes, there are 25% of the seats reserved under institutional quota."
+    },
+    {
+        "question":"How to reach campus?",
+        "keywords":["campus path "],
+        "answer":"Chaibasa is the district headquarter of the West Singhbhum District in the state of Jharkhand, India. It is around 155km from the state capital Ranchi and 60 km from Jamshedpur.Chaibasa is well connected with roads and railways with major cities of Eastern India through State Highway 5 and National Highway 33 and 75 with cities like Ranchi, Patna and Kolkata. Chaibasa is connected by train of South Eastern Railway Division and on route of Howrah-Barbil JanShatabdi express. However, buses are the preferred mode of transport between Jamshedpur and Chaibasa.   \nFrom Chaibasa to Campus: Distance of our campus & Chaibasa town is around 11 km which can be covered with the help of several private transport facility available from Railway station & Bus depot. The journey will take 15-20 mints.                   "
+    },
+    {
+        "question":"How to contact regarding admission details",
+        "keywords":["contact ","administration department","admin"],
+        "answer":"You can contact us by phone:9341912202,9007600888,9062941530 \nby email:cec.estd.govt@gmail.com \nor our office is open Monday to Saturday From 9:00 am to 7:00 pm"
+    },
+    {
+        "question": "Tell me about the professors",
+        "keywords": ["faculty members", "teaching staff","professor","faculties","faculty"],
+        "answer": "We have a team of dedicated professors known for their expertise in their respective fields."
+    },
+    {
+        "question":"When was the college established?",
+        "keywords":["established","foundation","found","history"],
+        "answer":"The college was established in 2013 by the Government of Jharkhand and managed by Techno India via a public-private partnership and was formerly known as Techno India Chaibasa and Government Engineering College Chaibasa"
+    },
+    {
+        "question":"Is it government college or private college?",
+        "keywords":["government","semi-government",""],
+        "answer":"Chaibasa Engineering College is a semi government college of higher education established  by Jharkhand Govt. \nIt is run by the Techno India Group and is recognized by AICTE"
+    },
+    {
+        "question":"What are the courses offered in the college?",
+        "keywords":["courses","branches","branch"],
+        "answer":"The college offers B.Tech course at the UG level in 5 branches: \n1. Computer Science and Engineering, \n2. Electrical Engineering, \n3. Civil engineering, \n4. Mechanical Engineering, \n5. Electronics & Communication Engineering"
+    },
+    {
+        "question":"What is the affiliation of the college?",
+        "keywords":["affiliation","affiliated by","affiliated"],
+        "answer":"The institute is affiliated by Jharkhand University of Technology and was earlier affiliated by Kolhan University. \nApproval has been taken from All India Council for Technical Education."
+    },
+    {
+        "question":"Does any branch have nba accrediation?",
+        "keywords":["nba accrediation","nba"],
+        "answer":"Two Programs of the Institute received accreditation from National Board of Accreditation for academic year 2021-22 & 2022–23. \n Accredited programs are Computer science and engineering and Electronics and Communication engineering."
+    },
+    {
+        "question":"What is the eligibility to take admission in the college?",
+        "keywords":["eligibilty","eligibilty criteria"],
+        "answer":"The student must have done 10+2 in PCM Subjects with an aggregate of 50% marks."
+    },
+    {
+        "question":"What are the actions taken against ragging?",
+        "keywords":["ragging","anti-ragging"],
+        "answer":"Ragging is a criminal offence as per the Supreme Court verdict. Ragging in any form, Within or outside the College Campus is legally banned. One, who directly or indirectly commits, participates in, abets or instigates ragging, inside or outside the University, shall be punished, by the Anti-Ragging Committee of the College."
+    },
+    {
+        "question":"What are the rules and regulatons followed in college and hostel?",
+        "keywords":["rules","regulation"],
+        "answer":"To download the detailed rules and regulations visit https://chaibasaengg.edu.in/Admission/rulesregulation"
+    },
+    {
+        "question":"How much is the campus area?",
+        "keywords":["campus area","campus"],
+        "answer":"The campus is located amidst lap of nature surrounded by greenery and wonderful weather all year around and covers an area of 14 hectares (35 acres)"
+    },
+    {
+        "question":"How is the placement of the college?",
+        "keywords":["placement and training","placement","training"],
+        "answer":"The institute has a training and placement cell which is responsible for on and off campus placement for students. It also helps to provide internship, industrial training, and other forms of training for the students during the course"
+    },
+    {
+        "question":"Where can I get the syllabus of the college for my semester?",
+        "keywords":["syllabus"],
+        "answer":"To download the syllabus visit https://chaibasaengg.edu.in/Academic/syllabus"
+    },
+    {
+        "question":"How can I know about the alumni of our college and connect with them?",
+        "keywords":["alumni"],
+        "answer":"To connect with alumni visit https://chaibasaengg.edu.in/About/alumni_connect"
+    },
+    {
+        "question":"How is the Mechanical Engineering branch of the college? ",
+        "keywords":["Mechanical","ME","Mechanical Engineering"],
+        "answer":"Mechanical engineering department teaches the students Manufacturing Science, Strength, Dynamics and Design of Machine Elements, Thermodynamics and Power Plant Engineering, Fluid Mechanics-both theory and Practice .In final year, students are supposed to build up the model and prototype of different equipments for their project and thesis .\n To know more about Mechanical Engineering visit https://www.chaibasaengg.edu.in/Course/course_detail/1"
+    },
+    {
+        "question":"How is the Electronics and Commuication Engineering branch of the college? ",
+        "keywords":["ECE","Electronics and Communication","Electronics & Communication"],
+        "answer":" The department is located in a sprawling environment with a state of art facilities and highly qualified faculty. The department works with the objective of addressing critical challenges faced by the Industry, society and the academia. Perhaps even more important is our unceasing commitment to our students, helping them to learn, grow, develop, and achieve their goals in their pursuit to excel in their professional career.\nThe department faculty work with excellent team spirit in different technical team like RF Electronics, Communication, Signal processing, VLSI, Embedded System, Wireless Sensor Network, Electronics Measurement which leads to key research publications and consultancy in these areas.\n To know more about Electronics and Commuication Engineering visit https://www.chaibasaengg.edu.in/Course/course_detail/5"
+    },
+    {
+        "question":"How is the Computer Science and Engineering branch of the college? ",
+        "keywords":["CSE","Computer Science and Engineering","Computer Science & Engineering"],
+        "answer":"Computer Science & Engineering is a dynamic and exciting field. Department of Computer Science & Engineering was established in the year 2013, enriched with strong resource persons and state-of-the-art laboratories. The Department has a comprehensive curriculum on topics related to all aspects of Computer Hardware and Software with an emphasis on practical learning. The course structure is up-to-date and includes courses on nascent topics to equip our students with the latest developments in Computer Science and Engineering.\n To know more about Computer Science & Engineering is a dynamic and exciting field. Department of Computer Science & Engineering was established in the year 2013, enriched with strong resource persons and state-of-the-art laboratories. The Department has a comprehensive curriculum on topics related to all aspects of Computer Hardware and Software with an emphasis on practical learning. The course structure is up-to-date and includes courses on nascent topics to equip our students with the latest developments in Computer Science and Engineering. Engineering visit https://www.chaibasaengg.edu.in/Course/course_detail/4"
+    },
+    {
+        "question":"How is the Electrical Engineering branch of the college? ",
+        "keywords":["Electrical","Electrical Engineering"],
+        "answer":"The Department of Electrical Engineering has been offering undergraduate course in Electrical Engineering since 2013. Within a very short span of time, the department has enhanced an excellent learning environment with dedicated young faculty members, technical staff, excellent laboratories and innovative teaching & learning processes. In order to perform the complex functions in modern applications of Electrical Engineering, the department has a well combination of hardware and software facilities.\n To know more about Electrical Engineering visit https://www.chaibasaengg.edu.in/Course/course_detail/3"
+    },
+    {
+        "question":"How is the Civil Engineering branch of the college? ",
+        "keywords":["Civil","Civil Engineering"],
+        "answer":"Civil engineering is a professional engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including works such as residences, institutional buildings, roads, bridges, canals, dams, airports, sewerage systems, pipelines, and railways. Civil engineering is traditionally broken into a number of sub-disciplines. It is considered the second-oldest engineering discipline after military engineering, Civil engineering takes place in the public sector from municipal through to national governments, and in the private sector from individual homeowners through to international companies.\n To know more about Civil Engineering visit https://www.chaibasaengg.edu.in/Course/course_detail/2"
+    },
+    {
+        "question":"Are there any student organisations or clubs?",
+        "keywords":["student organisations","clubs"],
+        "answer":"There are numerous active student clubs, covering various activities and events on campus"
+    },
+    {
+        "question":"What are the main events that take place in the college.",
+        "keywords":["Events","fest","festival","Cultural Fest"],
+        "answer":"The main events that take place in the college are:\n Annual Cultural Fest Zephyr \nAnnual Technical Fest Navkriti \nE-Cell /Startup Cell 'The Root'"
+    },
+    {
+        "question":"Who is the Principal of Chaibasa Engineering College?",
+        "keywords":["Principal"],
+        "answer":"Currently,the the Principal of Chaibasa Engineering College is Prof. Debabrata Raha (Principal-In-Charge)"
+    },
+    {
+        "question":"How many Academic and  Administrative staffs are there?",
+        "keywords":["staffs"],
+        "answer":"There are 65 Academic staffs and 13 Administrative staffs in the college."
+    }
+]
